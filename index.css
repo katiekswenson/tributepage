@@ -1,0 +1,43 @@
+#intro {
+    text-align: center;
+    background-color: #FADBD8;
+    font-family: Arial;
+}
+.title {
+    color: #154360;
+}
+.subtitle {
+    color: #154360;
+}
+.obit-pic {
+    text-align: center;
+    background-image: url(resources/Untitled\ design.png)
+}
+.biography-title {
+    text-align: center;
+    color: #154360;
+}
+.biography-list {
+    font-family: Arial;
+    color: #154360;
+}
+.body {
+    background-color: #FADBD8;
+}
+.heart-collage {
+    height: 1000px;
+    width: 1300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.leaf-border1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.leaf-border2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
